@@ -2,7 +2,9 @@
 
 Ek complete, responsive **Real Estate / Property listing website** jo humne YouTube video mein **zero se** banayi — sirf HTML, CSS aur JavaScript (koi framework nahi).
 
-🎬 **YouTube video (Hindi):** (jaldi aa raha hai)
+🎬 **YouTube video (Hindi):** https://www.youtube.com/watch?v=C-_zuCS4AfE
+
+📱 **Instagram Reel:** https://www.instagram.com/reel/DfRvK28IUg5/
 🌐 **Live demo:** https://nm621532-byte.github.io/real-estate-website-techbroz/
 💻 **Code khud chala ke dekho (free editor):** https://techbroz-code.sites.tab.bot/?v=real-estate-website
 ⬇️ **Download (zip):** https://github.com/nm621532-byte/real-estate-website-techbroz/raw/main/release/apna-ghar-real-estate-website-v1.0.zip (ya Releases → v1.0)
